@@ -1,2 +1,2 @@
 # Alarm-Clock
-An alarm clock I created in school.
+A program meant to mimic and simulate an alarm clock.
